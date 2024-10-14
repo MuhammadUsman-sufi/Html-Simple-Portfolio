@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(147, 201, 40);
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    /* border: 1px solid black; */
+    text-align: center;
+   
+}
+.About-Me{
+
+    /* border: 1px solid black; */
+    text-align: center;
+    
+}
+.Projects{
+    /* border: 1px solid black; */
+    height: 300px;
+    position:relative;
+}
+.Projects1{
+
+    border: 1px solid black;
+        text-align: :left;
+        padding: 10px;
+         margin-left:20px;
+        margin-top:20px; 
+        width: 200px;
+        height: 220px;
+        margin: bottom 20px;
+        float:left;
+        background-color:black;
+        
+        
+
+    }
+    .Projects2{
+
+         border: 1px solid black;
+            text-align: :left;
+            padding: 10px;
+            margin-left:20px;
+            margin-top:20px; 
+            width: 200px;
+            height: 220px;
+            margin: bottom 20px;
+            float:left;
+            background-color:black;
+           
+        }
+        .Projects3{
+
+            border: 1px solid black;
+                text-align: :left;
+                padding: 10px;
+                margin-left:20px;
+                margin-top:20px; 
+                width: 200px;
+                height: 220px;
+                margin-bottom: 20px;
+                float:left;
+                background-color:black;           
+            }
+         div{ 
+            /* border: 1px solid black; */
+            margin: 10px;
+        } 
+        .form{
+            /* padding: 5px; */
+            /* background-color: aquamarine; */
+            
+            height: 400px;
+            /* width: 850px; */
+        }
+        button{
+            display: block;        /* Makes the button take the whole width of its parent */
+            margin: 20px auto;     /* Auto margin centers the button horizontally */
+            padding: 10px 20px;
+        }
+        a {
+            display: block;           /* Makes the link a block-level element */
+            text-align: center;       /* Centers the text inside the link */
+            margin: 1px auto;        /* Auto margin centers the block-level element */
+            width: 200px;             /* Optional: Set a width for the link */
+            padding: 7px;            /* Optional: Adds padding around the link */
+            text-decoration: none;   /* Removes underline from the link */
+            color: yellow;           /* Changes link color */
+          }
+       
+
+            footer {
+                /* border: 1px solid black; */
+                margin-top: 10px;
+                background-color: #333333;
+                color: white;
+                text-align: center;
+                padding: 10px;
+               
+                /* margin-top: 10px; */
+            }
+            /* Styling the buttons */
+            .social-buttons {
+                /* display: inline-block; */
+                display: flex;
+                margin:;
+                height: 30px;
+                width: 100px;
+                /* padding: 2px; */
+                margin-left: 380px;
+               
+            }    
+            /* Styling the icons (buttons) */
+            .social-buttons a img {
+                width: 20px; /* Adjust size of logos here */
+                height:20px;
+                
+            }
+    
+        
